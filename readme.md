@@ -1,8 +1,8 @@
-# TWIG2REACT
+# Multiple React.js app compiler
 
-## TwigRender
+## Handlebars to React
 
-Convert twig temlpates to React apps sources.
+Use handlebars templates to covert in react jsx files.
 
 ```
 $ npm install
