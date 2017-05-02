@@ -1,0 +1,10 @@
+/dist/*
+/index.html
+/.idea
+/.sass-cache
+/app/styles
+/bower_components
+/node_modules
+/debug.log
+/npm-debug.log
+.tmp
